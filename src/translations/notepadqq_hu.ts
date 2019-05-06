@@ -5,7 +5,7 @@
     <name>AdvancedSearchDock</name>
     <message>
         <location filename="../ui/Search/advancedsearchdock.cpp" line="161"/>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="651"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="667"/>
         <source>Advanced Search</source>
         <translation>Speciális keresés</translation>
     </message>
@@ -65,190 +65,190 @@
         <translation>Ennek a panelnak a dokkolása/leválasztása</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="252"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="253"/>
         <source>Replace Text</source>
         <translation>Csereszöveg</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="260"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="261"/>
         <source>Replace Selected</source>
         <translation>Kijelölt cseréje</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="261"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="262"/>
         <source>Replace all selected search results.</source>
         <translation>Az összes kiválasztott keresési eredmény cseréje.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="263"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="264"/>
         <source>Use Special Characters (&apos;\n&apos;, &apos;\t&apos;, ...)</source>
         <translation>Speciális karakterek használata (&apos;\n&apos;, &apos;\t&apos;, ...)</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="264"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="265"/>
         <source>Replace strings like &apos;\n&apos; with their respective special characters.</source>
         <translation>A karakterláncok mint  a &apos;\\n&apos; cseréje a megfelelő speciális karakterekkel.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="300"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="302"/>
         <source>Search String</source>
         <translation>Keresési karakterlánc</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="307"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="309"/>
         <source>Search in Current Document</source>
         <translation>Keresés az aktuális dokumentumban</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="308"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="310"/>
         <source>Search in All Open Documents</source>
         <translation>Keresés az összes megnyitott dokumentumban</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="309"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="311"/>
         <source>Search in Files on File System</source>
         <translation>Keresés a fájlrendszer fájljaiban</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="324"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="328"/>
         <source>Directory</source>
         <translation>Könyvtár</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="333"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="337"/>
         <source>Select the directory of the active document</source>
         <translation>Az aktív dokumentum könyvtárának kiválasztása</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="337"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="341"/>
         <source>Select search directory</source>
         <translation>Keresési könyvtár kiválasztása</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="344"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="348"/>
         <source>Search</source>
         <translation>Keresés</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="347"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="351"/>
         <source>Scope:</source>
         <translation>Keresési tartomány:</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="349"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="353"/>
         <source>Search:</source>
         <translation>Keresés:</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="351"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="355"/>
         <source>Pattern:</source>
         <translation>Minta:</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="353"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="357"/>
         <source>Location:</source>
         <translation>Hely:</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="356"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="360"/>
         <source>Match Case</source>
         <translation>Kis- és nagybetűk megkülönböztetése</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="357"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="361"/>
         <source>Match Whole Words Only</source>
         <translation>Csak egész szavas találatok</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="358"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="362"/>
         <source>Use Regular Expressions</source>
         <translation>Reguláris kifejezések használata</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="359"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="363"/>
         <source>Use Special Characters (&apos;\t&apos;, &apos;\n&apos;, ...)</source>
         <translation>Speciális karakterek használata (&apos;\t&apos;, &apos;\n&apos;, ...)</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="360"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="364"/>
         <source>If set, character sequences like &apos;\t&apos; will be replaced by their respective special characters.</source>
         <translation>Ha be van állítva, akkor az olyan karakter szekvenciák helyébe mint a &apos;\\t&apos;, a megfelelő speciális karakterek kerülnek.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="361"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="365"/>
         <source>Include Subdirectories</source>
         <translation>Alkönyvtárakkal együtt</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="425"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="429"/>
         <source>&lt;h3&gt;One or more searches are still in progress&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Egy vagy több keresés még folyamatban van&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="426"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="430"/>
         <source>All searches will be canceled and their results discarded if you continue.</source>
         <translation>Minden keresés meg lesz szakítva, és az összes eredmény el fog veszni, ha folytatja.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="440"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="444"/>
         <source>New Search</source>
         <translation>Új keresés</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="742"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="758"/>
         <source>Search in progress</source>
         <translation>Keresés folyamatban</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="743"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="759"/>
         <source>&lt;h3&gt;This search is still in progress.&lt;/h3&gt; The search will be canceled and all results discarded if you continue.</source>
         <translation>&lt;h3&gt;Ez a keresés még folyamatban van.&lt;/h3&gt; A keresés meg lesz szakítva, és az összes eredmény el fog veszni, ha folytatja.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="854"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="870"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="855"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="871"/>
         <source>Specified directory does not exist.</source>
         <translation>A megadott könyvtár nem létezik.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="885"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="901"/>
         <source>Matches in %1 of %2 files replaced.</source>
         <translation>A találatok %1/%2 fájlban lecserélve.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="893"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="909"/>
         <source>&lt;h3&gt;Replacing selected matches...&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;A kiválasztott találatok cseréje...&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="894"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="910"/>
         <source>Replacing in progress</source>
         <translation>Csere folyamatban</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="906"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="922"/>
         <source>Replacing was unsuccessful for %1 file(s):
 </source>
         <translation>A csere %1 fájlban sikertelen volt:
 </translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="912"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="928"/>
         <source>And %1 more.</source>
         <translation>Még %1.</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="915"/>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="918"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="931"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="934"/>
         <source>Replacement Results</source>
         <translation>A csere eredménye</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="919"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="935"/>
         <source>All selected matches successfully replaced.</source>
         <translation>Az összes kiválasztott találat sikeresen lecserélve.</translation>
     </message>
@@ -348,12 +348,12 @@
     </message>
     <message>
         <location filename="../ui/docengine.cpp" line="167"/>
-        <location filename="../ui/docengine.cpp" line="761"/>
+        <location filename="../ui/docengine.cpp" line="764"/>
         <source>Protocol not supported for file &quot;%1&quot;.</source>
         <translation>A protokoll nem támogatja a(z) &quot;%1&quot; fájlt.</translation>
     </message>
     <message>
-        <location filename="../ui/docengine.cpp" line="667"/>
+        <location filename="../ui/docengine.cpp" line="672"/>
         <source>Notepadqq asks permission to overwrite the following file:
 
 %1</source>
@@ -362,22 +362,22 @@
 %1</translation>
     </message>
     <message>
-        <location filename="../ui/docengine.cpp" line="705"/>
+        <location filename="../ui/docengine.cpp" line="708"/>
         <source>Error trying to write to &quot;%1&quot;</source>
         <translation>Hiba a(z) &quot;%1&quot; írása közben</translation>
     </message>
     <message>
-        <location filename="../ui/docengine.cpp" line="707"/>
+        <location filename="../ui/docengine.cpp" line="710"/>
         <source>Abort</source>
         <translation>Megszakítás</translation>
     </message>
     <message>
-        <location filename="../ui/docengine.cpp" line="708"/>
+        <location filename="../ui/docengine.cpp" line="711"/>
         <source>Retry</source>
         <translation>Újra</translation>
     </message>
     <message>
-        <location filename="../ui/docengine.cpp" line="710"/>
+        <location filename="../ui/docengine.cpp" line="713"/>
         <source>Retry as Root</source>
         <translation>Újra Root-ként</translation>
     </message>
@@ -1455,86 +1455,86 @@ Biztosan menteni szeretné?</translation>
         <translation>Bármilyen fájl (*)</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1242"/>
+        <location filename="../ui/mainwindow.cpp" line="1244"/>
         <source>Ln %1, Col %2</source>
         <translation>%1. sor, %2 oszlop</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1243"/>
+        <location filename="../ui/mainwindow.cpp" line="1245"/>
         <source>    Sel %1 (%2)</source>
         <translation>    Kij. %1 (%2)</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1244"/>
+        <location filename="../ui/mainwindow.cpp" line="1246"/>
         <source>    %1 chars, %2 lines</source>
         <translation>    %1. karakter, %2. sor</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1382"/>
+        <location filename="../ui/mainwindow.cpp" line="1384"/>
         <source>Windows</source>
         <translation>Windows</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1385"/>
+        <location filename="../ui/mainwindow.cpp" line="1387"/>
         <source>UNIX / OS X</source>
         <translation>UNIX / OS X</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1388"/>
+        <location filename="../ui/mainwindow.cpp" line="1390"/>
         <source>Old Mac</source>
         <translation>Régi Mac</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1395"/>
+        <location filename="../ui/mainwindow.cpp" line="1397"/>
         <source>%1 w/o BOM</source>
         <translation>%1 BOM nélkül</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1880"/>
+        <location filename="../ui/mainwindow.cpp" line="1881"/>
         <source>No recent files</source>
         <translation>Nincsenek előzmények</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="1977"/>
+        <location filename="../ui/mainwindow.cpp" line="1978"/>
         <source>The following files do not exist anymore. Do you want to open them anyway?
 </source>
         <translation>Az alábbi fájlok már nem léteznek. Mindenképp szeretné őket megnyitni?
 </translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2088"/>
+        <location filename="../ui/mainwindow.cpp" line="2089"/>
         <source>Convert to:</source>
         <translation>Átalakítás erre:</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2106"/>
+        <location filename="../ui/mainwindow.cpp" line="2107"/>
         <source>Reload as:</source>
         <translation>Újratöltés mint:</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2153"/>
+        <location filename="../ui/mainwindow.cpp" line="2154"/>
         <source>Interpret as:</source>
         <translation>Értelmezés mint:</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2168"/>
+        <location filename="../ui/mainwindow.cpp" line="2169"/>
         <source>Run...</source>
         <translation>Futtatás...</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2180"/>
+        <location filename="../ui/mainwindow.cpp" line="2181"/>
         <source>Modify Run Commands</source>
         <translation>Futtatási parancsok módosítása</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2260"/>
+        <location filename="../ui/mainwindow.cpp" line="2261"/>
         <source>%1 wasn&apos;t able to open the produced pdf file:
 %2</source>
         <translation>%1 nem tudta megnyitni az előállított pdf fájlt:
 %2</translation>
     </message>
     <message>
-        <location filename="../ui/mainwindow.cpp" line="2327"/>
+        <location filename="../ui/mainwindow.cpp" line="2328"/>
         <source>The file &quot;%1&quot; does not exist. Do you want to re-create it?</source>
         <translation>A(z) &quot;%1&quot; fájl nem létezik. Szeretné újra létrehozni?</translation>
     </message>
@@ -1727,17 +1727,17 @@ Biztosan menteni szeretné?</translation>
         <translation>Megnyitandó fájlok.</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="497"/>
+        <location filename="../ui/frmpreferences.cpp" line="515"/>
         <source>Restart required</source>
         <translation>Újraindítás szükséges</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="498"/>
+        <location filename="../ui/frmpreferences.cpp" line="516"/>
         <source>You need to restart Notepadqq for the localization changes to take effect.</source>
         <translation>A nyelvváltoztatás érvénybe lépéséhez újra kell indítani a Notepadqq-t.</translation>
     </message>
     <message>
-        <location filename="../ui/Sessions/sessions.cpp" line="130"/>
+        <location filename="../ui/Sessions/sessions.cpp" line="132"/>
         <source>Error reading session file</source>
         <translation>Hiba a munkamenetfájl beolvasása közben</translation>
     </message>
@@ -1802,7 +1802,7 @@ Biztosan menteni szeretné?</translation>
         <translation>A csere műveletben használatos, hogy az n-edik találati csoportra hivatkozzon vele</translation>
     </message>
     <message>
-        <location filename="../ui/Search/advancedsearchdock.cpp" line="706"/>
+        <location filename="../ui/Search/advancedsearchdock.cpp" line="722"/>
         <source>Search in...</source>
         <translation>Keresés ebben...</translation>
     </message>
@@ -2136,118 +2136,123 @@ A Notepadqq rootként való futtatása nem ajánlott. Ha mindenképpen szükség
         <translation>em</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="358"/>
+        <location filename="../ui/frmpreferences.ui" line="356"/>
+        <source>Show line numbers</source>
+        <translation>Sorszámozás megjelenítése</translation>
+    </message>
+    <message>
+        <location filename="../ui/frmpreferences.ui" line="365"/>
         <source>Preview</source>
         <translation>Előnézet</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="441"/>
+        <location filename="../ui/frmpreferences.ui" line="448"/>
         <source>Tab size:</source>
         <translation>Tabulátor mérete:</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="454"/>
+        <location filename="../ui/frmpreferences.ui" line="461"/>
         <source>Use spaces instead of tabs</source>
         <translation>Szóköz használata tabulátor helyett</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="478"/>
+        <location filename="../ui/frmpreferences.ui" line="485"/>
         <source>Use default settings</source>
         <translation>Alapbeállítások használata</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="514"/>
+        <location filename="../ui/frmpreferences.ui" line="521"/>
         <source>Search as I type</source>
         <translation>Keresés ahogy begépelem</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="521"/>
+        <location filename="../ui/frmpreferences.ui" line="528"/>
         <source>Save search history</source>
         <translation>Keresési előzmények mentése</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="569"/>
+        <location filename="../ui/frmpreferences.ui" line="576"/>
         <source>Add</source>
         <translation>Hozzáadás</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="580"/>
+        <location filename="../ui/frmpreferences.ui" line="587"/>
         <source>Remove</source>
         <translation>Eltávolítás</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="609"/>
+        <location filename="../ui/frmpreferences.ui" line="616"/>
         <source>Move Up</source>
         <translation>Feljebb</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="620"/>
+        <location filename="../ui/frmpreferences.ui" line="627"/>
         <source>Move Down</source>
         <translation>Lejjebb</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="650"/>
+        <location filename="../ui/frmpreferences.ui" line="657"/>
         <source>Reset to Default</source>
         <translation>Alaphelyzetbe állítás</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="697"/>
+        <location filename="../ui/frmpreferences.ui" line="704"/>
         <source>Node.js runtime</source>
         <translation>Node.js futtatókörnyezet</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="703"/>
+        <location filename="../ui/frmpreferences.ui" line="710"/>
         <source>Supported Node versions: 0.10, 0.11, 0.12</source>
         <translation>Támogatott Node verziók: 0.10, 0.11, 0.12</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="710"/>
+        <location filename="../ui/frmpreferences.ui" line="717"/>
         <source>Node.js path:</source>
         <translation>Node.js elérési útja:</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="722"/>
-        <location filename="../ui/frmpreferences.ui" line="743"/>
+        <location filename="../ui/frmpreferences.ui" line="729"/>
+        <location filename="../ui/frmpreferences.ui" line="750"/>
         <source>Browse...</source>
         <translation>Tallózás...</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="731"/>
+        <location filename="../ui/frmpreferences.ui" line="738"/>
         <source>NPM path:</source>
         <translation>NPM elérési útja:</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.ui" line="752"/>
+        <location filename="../ui/frmpreferences.ui" line="759"/>
         <source>WARNING: support for extensions is EXPERIMENTAL.</source>
         <translation>FIGYELEM: A bővítmények támogatása KÍSÉRLETI JELLEGŰ.</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="277"/>
+        <location filename="../ui/frmpreferences.cpp" line="291"/>
         <source>Reset Selected</source>
         <translation>Kijelölt visszaállítása</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="278"/>
+        <location filename="../ui/frmpreferences.cpp" line="292"/>
         <source>Reset All</source>
         <translation>Összes visszaállítása</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="375"/>
+        <location filename="../ui/frmpreferences.cpp" line="389"/>
         <source>Keyboard shortcut conflict</source>
         <translation>Billentyűparancs konfliktus</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="376"/>
+        <location filename="../ui/frmpreferences.cpp" line="390"/>
         <source>Two or more actions share the same shortcut. These conflicts must be resolved before your changes can be saved.</source>
         <translation>Két vagy több művelet ugyanazon a billentyűparancson osztozkodik. A módosításai mentése előtt ezeket a konfliktusokat fel kell oldani.</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="504"/>
+        <location filename="../ui/frmpreferences.cpp" line="522"/>
         <source>Browse</source>
         <translation>Tallózás</translation>
     </message>
     <message>
-        <location filename="../ui/frmpreferences.cpp" line="590"/>
+        <location filename="../ui/frmpreferences.cpp" line="613"/>
         <source>Would you like to clear the existing history now?</source>
         <translation>Szeretné törölni a meglévő előzményeket?</translation>
     </message>
