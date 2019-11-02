@@ -1851,7 +1851,7 @@ Vuoi salvare comunque?</translation>
     <message>
         <location filename="../ui/stats.cpp" line="128"/>
         <source>You can help to improve Notepadqq by allowing us to collect &lt;b&gt;anonymous statistics&lt;/b&gt;.</source>
-        <translation>Puoi aiutarci a migliorare Notepadqq autorizzandoci di raccogliere &lt;b&gt; statistiche anonime/b&gt;. </translation>
+        <translation>Puoi aiutarci a migliorare Notepadqq autorizzandoci di raccogliere &lt;b&gt; statistiche anonime&lt;/b&gt;. </translation>
     </message>
     <message>
         <location filename="../ui/stats.cpp" line="129"/>
@@ -2072,7 +2072,7 @@ Vuoi salvare comunque?</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="133"/>
-        <source>This option allows Notepadqq to recover your documents after a crash even if they were not explicitely saved.</source>
+        <source>This option allows Notepadqq to recover your documents after a crash even if they were not explicitly saved.</source>
         <translation>Questa opzione permette a Notepadqq di ripristinare i tuoi documenti dopo un crash anche se non sono stati esplicitamente salvati.</translation>
     </message>
     <message>
